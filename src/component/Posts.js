@@ -1,6 +1,6 @@
 import React from 'react'
 import Post from './Post'
-import PostDetails from './PostDetails'
+
 
 export default function Posts({ list , handlePost}) {
 

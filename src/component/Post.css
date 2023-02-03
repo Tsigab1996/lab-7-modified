@@ -5,3 +5,20 @@
     margin: 10px;
     width: 250px;
 }
+
+#form{
+    background-color: rgb(223, 241, 226);
+    color: rgb(16, 15, 16);
+    margin-left: 30px;
+    width: 300px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+}
+
+#comment{
+    background-color:bisque;
+    color: aqua;
+    border: 5px, solid red;
+    width: 300px;
+}
